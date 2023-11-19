@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Angular Js, React Js, Node Js**
+- 🌱 I’m currently learning **React Js, Node Js, Express Js**
 
-- 👯 I’m looking to collaborate on **front-end project**
+- 👯 I’m looking to collaborate on **full-Stack projects**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, BootStrap, Gsap**
+- 💬 Ask me about **HTML, CSS, JavaScript, BootStrap, Node Js, Express Js, MySQL**
 
 - 📫 How to reach me **pranavbagate0@gmail.com**
 
